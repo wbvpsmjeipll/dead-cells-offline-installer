@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Dead Cells is a roguelite, metroidvania inspired, action-platformer. You'll explore a sprawling, ever-changing castle... assuming you’re able to fight your way past its keepers in 2D souls-lite combat. No checkpoints. Kill, die, learn, repeat.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | — | Mavericks 10.9 or later |
+| **Processor** | Intel i5+ | Intel Core i5 / Apple M1 |
+| **Memory** | Min: 2 GB RAM / Rec: 4 GB RAM | 2 GB RAM |
+| **Graphics** | Min: Nvidia 450 GTS / Radeon HD 5750 or better / Rec: Nvidia GTX 460 / Radeon HD 7800 or better | OpenGL 3.2+ |
+| **Storage** | 500 MB available space | 500 MB available space |
+| **OS *** | Windows 7+ | Windows 7+ |
+| **Additional Notes** | DirectX 9.1+ or OpenGL 3.2+ | MacBook, MacBook Pro or iMac 2012 or later |
 
 ---
 
